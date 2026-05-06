@@ -3,7 +3,6 @@ const axios = require("axios");
 const WAKE_UP_URLS = [
   // "https://google-meet-clone-backend-5y6o.onrender.com",
   // "https://worklyn-api.onrender.com",
-  "https://axiom-saga-1.onrender.com/health"
 ];
 
 // Runs all wake-up pings concurrently and returns an array of results
